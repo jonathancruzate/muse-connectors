@@ -28,3 +28,10 @@ Each of these three uses the provider's own app/web endpoints on the user's own 
 ## Maintainer
 
 Maintained by Jonathan Cruzate. All packages are scrubbed of personal data and credentials before they land here.
+
+## Install it with Muse
+
+Just give this prompt to your Muse:
+
+> "Install Muse Connectors from https://github.com/jonathancruzate/muse-connectors — read the README, install it, set it up for me, and show me how to use it."
+
