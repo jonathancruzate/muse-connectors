@@ -1,0 +1,7 @@
+id: custom.public-data
+title: Public Data (no-auth APIs)
+description: Use Public Data when a task needs a no-auth official/public API route Muse lacked — openFDA drug labels/events, ClinicalTrials.gov, GDELT, Google News RSS, Hacker News, Mastodon, Bluesky actor search, Polymarket Gamma, Lemmy, PeerTube SepiaSearch, IMDb datasets, plus The Muse and Remotive job feeds — through one stdlib CLI, bin/public_data.py. All routes live-verified 2026-11-08; no API key or account for any of them.
+include_in_prompt: true
+require_auth: false
+availability:
+  confidential_vm: false
