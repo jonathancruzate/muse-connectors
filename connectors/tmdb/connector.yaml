@@ -1,0 +1,6 @@
+id: "custom.tmdb"
+title: "TMDB"
+description: "Use TMDB when the user asks for TMDB or this provider's API: movie and TV search, details, weekly trending, US watch providers, and similar titles through the official TMDB API with the vault-held Read Access Token."
+include_in_prompt: true
+require_auth: true
+aliases: ["The Movie Database"]
