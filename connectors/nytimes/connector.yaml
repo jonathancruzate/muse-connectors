@@ -1,0 +1,6 @@
+id: "custom.nytimes"
+title: "New York Times"
+description: "Use New York Times when the user asks for NYT content or this provider's API: article search across the NYT archive, top stories by section, most popular lists, and Books bestseller lists through the NYT Developer APIs with the vault-held app key."
+include_in_prompt: true
+require_auth: true
+aliases: ["NYT", "NYT Developer APIs", "The New York Times"]
