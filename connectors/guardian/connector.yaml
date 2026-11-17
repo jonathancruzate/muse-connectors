@@ -1,0 +1,6 @@
+id: "custom.guardian"
+title: "The Guardian"
+description: "Use The Guardian when the user asks for Guardian news or this provider's API: full-text Guardian article search, sections, and article content through the Guardian Open Platform Content API with the vault-held Developer key."
+include_in_prompt: true
+require_auth: true
+aliases: ["Guardian Open Platform", "Guardian Content API"]
